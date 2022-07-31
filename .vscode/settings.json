@@ -1,7 +1,6 @@
 {
     "workbench.colorCustomizations": {
         "sash.hoverBorder": "#6ebe80",
-        "sideBar.border": "#6ebe80",
         "titleBar.activeBackground": "#4dac62",
         "titleBar.activeForeground": "#15202b",
         "titleBar.inactiveBackground": "#4dac6299",
